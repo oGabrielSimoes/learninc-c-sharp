@@ -1,4 +1,4 @@
-# 📖 Aprendendo C#
+# 📖 Aprendendo ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Estou estudando a linguagem de programação C# e decidi compartilhar insights do que aprendi em meu GitHub. Aqui compartilharei os códigos construídos através das aulas e aprendizados e nos própios códigos estarão minhas anotações feitas para melhor entender o que estou construindo. Espero ajudar vocês a entender um pouco mais sobre a linguagem e junto a isso entendo e utilizo o versionamento de codigo para praticar. 
 
